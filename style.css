@@ -1,0 +1,38 @@
+h1{
+    position: absolute;
+    top: 90px;
+    left: 570px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(76, 167, 175); 
+}
+
+button{
+    position: absolute;
+    top: 240px;
+    left: 690px;
+    background-color: rgb(76, 167, 175); 
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#quoteDisplay{
+    position: absolute;
+    top: 190px;
+    left: 565px;
+}
+
+.rectangle{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 60px;
+    left: 515px;
+}
